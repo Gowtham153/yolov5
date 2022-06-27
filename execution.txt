@@ -1,0 +1,1 @@
+python detect.py --weights best.pt --img 416 --conf 0.2 --source ../license_plate.mp4

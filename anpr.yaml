@@ -1,0 +1,5 @@
+names:
+- licence
+nc: 1
+train: /kaggle/working/train.txt
+val: /kaggle/working/val.txt
